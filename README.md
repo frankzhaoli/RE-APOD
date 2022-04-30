@@ -26,15 +26,15 @@ In the project directory, you can open index.html in any modern browser, or view
 ## Future Updates
 
 - [ ] Display more information from NASA's APOD API
-- [ ] Make everything fit on screen without the need for a scrollbar
+- [ ] Make everything fit on screen without the need for a scrollbar or resizing
 
 ## Author
 
 **Frank Li**
 
-- [Profile](https://github.com/frankzhaoli "Frank Li")
+- [Profile](https://github.com/frankzhaoli "My Github Profile")
 - [Email](mailto:zhao.lang.li2@gmail.com?subject=Hi "Hi!")
-- [Website](https://www.linkedin.com/in/zhaofrank-li/ "Welcome~")
+- [Website](https://www.linkedin.com/in/zhaofrank-li/ "LinkedIn")
 
 ## 🤝 Support
 
