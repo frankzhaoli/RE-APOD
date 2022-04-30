@@ -3,7 +3,7 @@
 
 ## Links
 
-- [Repo](https://github.com/frankzhaoli/RE-APOD "Re-APOD Repo")
+- [Repo](https://github.com/frankzhaoli/APOD "Re-APOD Repo")
 
 - [Live](<https://frankzhaoli.github.io/> "Live View")
 
@@ -15,7 +15,7 @@
 
 ## Available Commands
 
-In the project directory, you can open index.html in any modern browser, or view with the link above.
+In the project directory, you can open index.html in any modern browser, or open directly with the live link above.
 
 ## Built With
 
