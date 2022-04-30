@@ -3,7 +3,7 @@
 
 ## Links
 
-- [Repo](https://github.com/frankzhaoli/APOD "Re-APOD Repo")
+- [Repo](https://github.com/frankzhaoli/RE-APOD "Re-APOD Repo")
 
 - [Live](<https://frankzhaoli.github.io/> "Live View")
 
