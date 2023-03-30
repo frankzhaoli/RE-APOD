@@ -5,7 +5,7 @@
 
 - [Repo](https://github.com/frankzhaoli/APOD "Re-APOD Repo")
 
-- [Live](<https://frankzhaoli.github.io/> "Live View")
+- [Live Demo](<https://frankzhaoli.github.io/RE-APOD/> "Live View")
 
 - [API](<https://api.nasa.gov/> "NASA's API")
 
