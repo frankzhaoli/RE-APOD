@@ -11,17 +11,20 @@
 
 ## Screenshots
 
-![Home Page](/screenshots/1.png "Home Page")
+![Home Page](/images/1.png "Home Page")
 
 ## Available Commands
 
-In the project directory, you can open index.html in any modern browser, or open directly with the live link above.
+`npm start`
+- Runs APOD in dev mode.
+- Open [http://localhost:3000](http://localhost:3000) to view in your browser.
 
 ## Built With
 
 - JavaScript
 - React
 - HTML
+- CSS
 
 ## Future Updates
 
@@ -35,7 +38,3 @@ In the project directory, you can open index.html in any modern browser, or open
 - [Profile](https://github.com/frankzhaoli "My Github Profile")
 - [Email](mailto:zhao.lang.li2@gmail.com?subject=Hi "Hi!")
 - [Website](https://www.linkedin.com/in/zhaofrank-li/ "LinkedIn")
-
-## 🤝 Support
-
-Give a ⭐️ if you like this project!
