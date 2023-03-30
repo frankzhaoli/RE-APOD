@@ -15,6 +15,9 @@
 
 ## Available Commands
 
+`npm install`
+- Install dependencies.
+
 `npm start`
 - Runs APOD in dev mode.
 - Open [http://localhost:3000](http://localhost:3000) to view in your browser.
